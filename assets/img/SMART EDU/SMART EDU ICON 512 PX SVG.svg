@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.93701in" height="3.93701in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3937 3937"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="586" font-variant="normal" style="fill-rule:nonzero" font-weight="900">
+	<font-face 
+		font-family="Orion Black">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="S" horiz-adv-x="508"><path d="M260.666 720.999c69.6667,0 134.166,-22.4988 179.002,-73.8331 10.3314,-12.1651 20.166,-25.8319 26.9995,-40.0002 14.5002,-30.6669 18.4995,-59.9991 19.9989,-92.1654l0.501385 -6.3344 -135.835 0 -0.833288 5.33399c-5.49876,53.1657 -32.3311,93.6672 -92.3326,93.6672 -53.6671,0 -86.8338,-30.6669 -86.8338,-79.5013 0,-27.3314 12.1674,-44.4985 38.0017,-58.1654 14.6649,-8.16811 32.1663,-14.1683 50.3315,-19.4999 18.0004,-5.33399 36.4999,-9.66756 53.6671,-15.1663 107.334,-31.1683 180.668,-76.5001 180.668,-191.334 0,-131.168 -100.169,-205.001 -239.335,-205.001 -90.666,0 -180.499,36.168 -218.665,117.166 -14.6673,31.333 -19.0009,60.9995 -20.5003,93.8344l-0.501385 6.83343 136.334 0 0.833288 -6.00015c2.49986,-18.4995 4.99973,-33.6681 13.1655,-49.6677 18.1676,-32.3335 56.1669,-48.3331 95.8352,-48.3331 52.1653,0 94.1663,34.1672 94.1663,82.5002 0,51.1672 -38.6679,69.6667 -91.3345,85.8334 -23.3321,6.83343 -47.3327,12.6665 -70.8319,19.9989 -103.502,31.8344 -161.001,79.6685 -161.001,184.5 0,122.5 99.0012,195.333 228.5,195.333z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Orion Black";src:url("#FontID0") format(svg)}
+    .fil2 {fill:none}
+    .fil1 {fill:#31263E}
+    .fil0 {fill:#ECA72C}
+    .fnt0 {font-weight:900;font-size:1672.53px;font-family:'Orion Black'}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M555 1079l1707 0 0 1707 -1707 0 0 -1707z"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <g>
+    <g id="_752545048">
+     <ellipse class="fil0" cx="1425" cy="1946" rx="754" ry="839"/>
+     <g transform="matrix(1 0 0 1 -968.881 613.214)">
+      <text x="1969" y="1969"  class="fil1 fnt0">S</text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <polygon class="fil2" points="555,1079 2262,1079 2262,2786 555,2786 "/>
+ </g>
+</svg>
